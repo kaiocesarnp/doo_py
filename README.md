@@ -1,5 +1,3 @@
-# doo_py_ev
-
 Fundação Bradesco - Escola Virtual
 
 Curso: Desenvolvimento Orientado a Objetos Utilizando a Linguagem Python;
